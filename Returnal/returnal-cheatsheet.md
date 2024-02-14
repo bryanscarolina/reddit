@@ -8,8 +8,12 @@
 6. Resin makes your HP bar longer but doesn't fill it up. Silphium fills it up. Cleansing Silphium costs 2 ether and usually worth it. 
 7. When you get to a fabricator to buy items, ALWAYS, and I mean always, buy Silphium Vials - there are large and small ones.
 8. If you have an Astronaut in your fabricator, buy it. It gives you an extra life.
-10. When you first start out, worry about unlocking your weapon traits. This gradually makes the game so much easier. They'll start showing up on the weapons you pick up in consecutive runs. 
-11. All weapons are viable. Don't underestimate melee.
-12. You can unlock certain shortcuts once you progress far enough in the level that allows you to cut out significant portions of the game.
-13. You're supposed to die. It actually screws up the storyline if you don't die.
-14. Light blue rectangle doors are progression, dark blue triangle doors are optional. 
+9. When you first start out, worry about unlocking your weapon traits. This gradually makes the game so much easier. They'll start showing up on the weapons you pick up in consecutive runs. 
+10. All weapons are viable. Don't underestimate melee.
+11. You can unlock certain shortcuts once you progress far enough in the level that allows you to cut out significant portions of the game.
+12. You're supposed to die. It actually screws up the storyline if you don't die.
+13. Light blue rectangle doors are progression, dark blue triangle doors are optional.
+
+**EDIT**
+
+14. Adding one more not in the screenshot, but even once you unlock other biomes/worlds, I'd recommend staying in the 1st Biome long enough to reach the fabricators in order to purchase a Large Silphium Vial and Astronaut (if available).
