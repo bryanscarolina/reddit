@@ -1,6 +1,6 @@
-![](reddit-apollo-icon.png)
+<img src="reddit-black-logomark.png" width="250" height="auto">
 
-# Reddit
+<br>  
 
 ## My Personal CDN
 
