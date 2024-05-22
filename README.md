@@ -1,4 +1,4 @@
-<img src="reddit-black-logomark.png" width="250" height="auto">
+<img src="reddit-black-logomark.png" width="150" height="auto">
 
 <br>  
 
