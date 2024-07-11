@@ -13,7 +13,4 @@
 11. You can unlock certain shortcuts once you progress far enough in the level that allows you to cut out significant portions of the game.
 12. You're supposed to die. It actually screws up the storyline if you don't die.
 13. Light blue rectangle doors are progression, dark blue triangle doors are optional. Light blue rectangle doors with a circle above them indicate shortcuts to another biome.
-
-**EDIT**
-
 14. Adding one more not in the screenshot, but even once you unlock other biomes/worlds, I'd recommend staying in the 1st Biome long enough to reach the fabricators in order to purchase a Large Silphium Vial and Astronaut (if available). They're easiest to reach in Biome 1 and Biome 5.
