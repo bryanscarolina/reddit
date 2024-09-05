@@ -1,4 +1,4 @@
-<img src="reddit-black-logomark.png" width="150" height="auto">
+<img src="reddit-old-logo.png" width="auto" height="100">
 
 <br>  
 
@@ -10,7 +10,7 @@ Public repository for hosting public links to images.
 
 **Why?**
 
-I tried uploading an image to Reddit. I couldn’t figure out what I was doing wrong with Imgur, So… here we are.
+I tried uploading an image to Reddit. I couldn’t figure out what I was doing wrong with Imgur. So… here we are.
 
 ¯\\\_(ツ)\_/¯
 
