@@ -15,3 +15,4 @@
 13. You're supposed to die. It actually screws up the storyline if you don't die.
 14. Light blue rectangle doors are progression, dark blue triangle doors are optional. Light blue rectangle doors with a circle above them indicate shortcuts to another biome.
 15. Adding one more not in the screenshot, but even once you unlock other biomes/worlds, I'd recommend staying in the 1st Biome long enough to reach the fabricators in order to purchase a Large Silphium Vial and Astronaut (if available). They're easiest to reach in Biome 1 and Biome 5.
+16. If you're having trouble staying alive, Adrenaline Leech is the best item in the game. Personally, I think it's better than Silphium Vials.
