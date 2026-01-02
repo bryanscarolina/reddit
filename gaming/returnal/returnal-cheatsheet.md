@@ -1,7 +1,7 @@
 ## Returnal Cheatsheet
 
 1. Never. Stop. Moving. Ever. 
-2. You're invincible when you're dashing and when you're grappling. Take advantage of your these iframes when you need to.
+2. You're invincible when you're dashing and when you're grappling. Take advantage of these iframes when you need to.
 3. Don't pick up parasites _at first_.
 4. Don't pick up malignant items unless A. you cleanse them first with Ether or B. you've got the Nullification Sphere consumable that removes malfunctions.
 5. \#3 and \#4 are two of the quickest ways to ruin an entire run if you're not careful.
